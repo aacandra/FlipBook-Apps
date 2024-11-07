@@ -1,3 +1,3 @@
-# FlipBook-Aps
+# FlipBook-Apps
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/linggapadjadjaran/FlipBook-Aps)
